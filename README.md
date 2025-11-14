@@ -7,7 +7,7 @@
 ![alt text](Images/storytelling.png)
 
 ## Example of my vizz Children born per year chart:
-https://public.tableau.com/authoring/childrenbornperyearcahrt/Sheet1#1
+https://public.tableau.com/views/childrenbornperyearcahrt/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ![alt text](<Images/tableau image.png>)
 
